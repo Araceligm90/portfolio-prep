@@ -40,13 +40,17 @@ That it is a changing and ever evolving industry that requires for you to contin
 **Fruits & Friends Project**
 
 [Fruits&Friends splashscreen](Img/fruits-friends-splashscreen.png)
+
 [Frutis&Friends home](Img/fruits-riends-home.png)
+
 [Fruits&Friends sidebar](Img/fruits-friends-sidebar.png)
 
 
 **Salmon Cookies**
 
 [Salmon Cookies home](Img/salmon-cookies-home.png)
+
 [Salmon Cookies home](Img/salmon-cookies-home2.png)
+
 [Salmon Cookies Sales Page](Img/salmon-cookies-sales.png)
 
